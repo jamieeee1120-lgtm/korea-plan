@@ -1,0 +1,7 @@
+{
+  "name": "Seoul & Busan: Esports & Fashion Explorer",
+  "description": "A minimalist, Muji-inspired travel companion for exploring Korea's esports scene and fashion hotspots. Features itinerary planning, cultural guides, expense tracking, and an integrated AI travel assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
